@@ -8,7 +8,7 @@ Improve employee performance and improve employee retention (Reduce Attrition) b
 <b><h2>Project Description :- </h2></b> 
 
 <ul>
-<li>Objec:
+Objec:
 <li>Identified key factors that will reduce attrition.
 <li>Improved hiring process/employee exp.
 <li>Make workforce more productive.
